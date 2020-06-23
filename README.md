@@ -1,9 +1,8 @@
 # iLocker
-Repositório dedicado ao projeto de objetos inteligentes turma 05L11
-
-Alunos:
-Ana Clara Sousa 
-Leonardo Eiki Abe 
+>Repositório dedicado ao projeto de objetos inteligentes turma 05L11
+>Alunos:
+>Ana Clara Sousa 
+>Leonardo Eiki Abe 
 
 ## O que é iLocker
 
@@ -34,4 +33,7 @@ Buscando inspiração no âmbito facilitador e prático da ação da internet da
   - Protocolo MQTT 
   - MQTT Broker (mqtt eclipse foi utilizado para o projeto)
   - MQTT Client (MQTTBox foi utilizado para o projeto)
-  
+ 
+## Objetivo do software
+
+O objetivo do software é prover uma solução inteligente e conectada à internet para proteção de bens. Com este projeto é possível monitorar o acesso ao cofre através da utilização do protocolo MQTT, baseado no protocolo TCP/IP da web. Além disso, conta com duas tecnologias altamente eficazes como o sensor RFID para realizar a leitura e validação dos dados de acesso, juntamente com o NodeMCU ESP8266 com conectividade WI-FI para contemplar a internet das coisas!
